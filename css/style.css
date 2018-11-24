@@ -1,0 +1,41 @@
+.greeting{
+    color: green;
+    font-size: 18px;
+    margin-bottom: 15px
+}
+.introduction{
+
+}
+
+.margin-below{
+    margin-bottom: 5px;
+}
+.intro-detail{
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+
+
+
+/* profile info */
+
+.profile-info>ul>li{
+    display: inline-block;
+}
+.title{
+    display: block;
+    width: 100px;
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+}
+.info{
+    width: 240px;
+    display: block;
+    /* margin-left: 125px; */
+    font-size: 15px;
+    font-weight: 400;
+}
