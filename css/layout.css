@@ -5,12 +5,12 @@
 .right {
     float: right;
 }
-.block{
+
+.block {
     display: inline-block;
-    
 }
 
-
+/*
 .top-menu-container {
     width: 100%;
     padding-top: 50px;
@@ -20,24 +20,33 @@
     width: 100%;
     padding-top: 50px;
 }
-
+*/
 .preview-page-center-wrapper {
     width: 738px;
     margin: 0 auto;
-    padding: 50px 25px 50px 25px;
+    /* padding: 50px 25px 50px 25px;
 
-    background-color: red;
+    background-color: red; */
 }
 
 
 .profile-pic {
-    margin-right: 10px;
-    background-color: yellow;
     width: 200px;
+    margin: 0 auto;
 }
 
+.profile-name {
+    margin: 0 auto;
+    text-align: center;
+}
 
-.preview-content{
+.profile-intro {
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*
+.preview-content {
     background-color: white;
     width: 500px;
-}
+} */
